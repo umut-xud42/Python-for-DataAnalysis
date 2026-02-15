@@ -1,1 +1,1 @@
-This repository data-analysis practis  practice in python
+This repository data-analysis practice in python
