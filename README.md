@@ -1,1 +1,1 @@
-This repository for python practice for data analysis
+This repository data-analysis practis  practice in python
